@@ -1,0 +1,13 @@
+a=5
+b=49
+c=49
+print("add",a+b)
+print("sub",a-b)
+print("mul",a*b)
+print("div",b/a)
+print("div1",b//a)
+print("div",b%a)
+print("square",b**2)
+print("squareroot",b**0.5)
+print("check",b==c)
+print("greater?",b>a)
